@@ -15,3 +15,5 @@ This data set contains the following features:
 * 'Country': Country of consumer
 * 'Timestamp': Time at which consumer clicked on Ad or closed window
 * 'Clicked on Ad': 0 or 1 indicated clicking on Ad
+
+The data is obtained from Piearan Data's Python for Data Science and Machine Learning course.
