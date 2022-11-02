@@ -1,5 +1,4 @@
 # Logistic-Regression-Project
-# Linear-Regression-Project
 To be able to view this project you will need [Python](https://www.python.org/downloads/), [Jupyter Notebook](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-windows/) and [Anaconda](https://www.anaconda.com/products/distribution) installed. You can click on the hyperlinks to look at a guide on how to install them. Please install the workbook and the dataset and change your directory to the downloaded folder to successfully run the workbook.
 
 In this project I will be analyzing a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement on a company website. I will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
